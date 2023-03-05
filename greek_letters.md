@@ -1,4 +1,4 @@
-Capital letters:
+# Capital letters
 
 | Name | Code | Description | Symbol / Character | Code(Hex) |
 | -- | -- | -- | -- | -- |
